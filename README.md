@@ -61,8 +61,8 @@
 |---|---|
 | [**Pathlab Patient Portal**](https://github.com/ramsharmas/Pathlab_portal) | Production patient portal — OTP login, appointment booking, Razorpay payments, offline-first caching |
 | [**Brain Tumor MRI Classifier**](https://github.com/ramsharmas/brain-tumor-mri-classification-resnet18-main) | ResNet18 transfer learning, 4-class MRI classification, deployed on Gradio |
-| [**Spring Boot E-Commerce API**](https://github.com/ramsharmas/Spring-Boot-E-Commerce-Application) | Full REST backend — auth, cart, orders — secured with Spring Security |
 | [**Housing Price Prediction**](https://github.com/ramsharmas/Machine-Learning-Based-Housing-Price-Prediction-System) | Linear Regression vs. Random Forest (87% accuracy), served via Flask REST API |
+| [**DSA Problem Solving**](https://github.com/ramsharmas/Algorithm-Problem-Solving-Repository) | 150+ Data Structures & Algorithms problems solved on LeetCode and HackerRank |
 | [**JobFit AI**](https://github.com/ramsharmas/jobfit-ai) | RAG + agent tool that scores a resume against a job description and generates targeted interview questions |
 
 ### GitHub stats
